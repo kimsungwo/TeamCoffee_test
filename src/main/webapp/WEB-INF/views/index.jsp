@@ -6,6 +6,11 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 <script type="text/javascript">
+	 
+	 /* location.href = '/aop/test';  */
+	 /* location.href = '/aop/test';  */
+	 /* location.href = '/aop/test';  */
+	 /* location.href = '/aop/test';  */
 	 /* location.href = '/aop/test';  */
  	location.href = '/item/itemList'; 
 </script>
